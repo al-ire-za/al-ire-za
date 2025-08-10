@@ -3,7 +3,7 @@
 
 
 ## About Me  
-Student at Ferdowsi University of Mashhad 🎓.  
+Computer Engineering Student at Ferdowsi University 🎓.  
 Passionate about web development and UI design 💻.  
 Intermediate web developer with HTML, CSS, Tailwind and JavaScript.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" />
@@ -12,7 +12,7 @@ Intermediate web developer with HTML, CSS, Tailwind and JavaScript.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />  
 I have experience with Python, C, and C++, and I have also worked with the Qt framework.
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/C_Programming_Language.svg" alt="C" width="30" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="30" height="30" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="30" height="30" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Qt_logo_2016.svg" alt="Qt" width="30" height="30" />
 
