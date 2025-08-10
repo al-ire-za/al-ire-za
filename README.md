@@ -14,7 +14,7 @@ I have experience with Python, C, and C++, and I have also worked with the Qt fr
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="30" height="30" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="30" height="30" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Qt_logo_2016.svg" alt="Qt" width="30" height="30" />
+<img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/qt-green-logo" alt="Qt" width="30" height="30" />
 
 
 
