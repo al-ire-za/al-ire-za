@@ -21,7 +21,13 @@ I have experience with Python, C, and C++, and I have also worked with the Qt fr
 Proficient in Git for version control and collaborative development.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git Logo" />  
 Experienced in writing SQL queries and managing relational databases.
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="SQL Logo" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="SQL Logo" />   
+
+### Contact
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mail/mail-original.svg" width="20" height="20" alt="Email Icon" />  
+📧 Email: [alirezatnalireza1@gmail.com](mailto:alirezatnalireza1@gmail.com)
+
 
 
 
