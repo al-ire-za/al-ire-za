@@ -5,8 +5,7 @@
 
 
 ## About Me  
-Computer Engineering Student at Ferdowsi University 🎓.  
-Passionate about web development and UI design 💻.  
+Computer Engineering Student at Ferdowsi University 🎓.   
 Intermediate web developer with HTML, CSS, Tailwind and JavaScript.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" />
