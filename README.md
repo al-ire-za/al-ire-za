@@ -23,9 +23,10 @@ Proficient in Git for version control and collaborative development.
 Experienced in writing SQL queries and managing relational databases.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="SQL Logo" />   
 
+
+
 ### Contact
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mail/mail-original.svg" width="20" height="20" alt="Email Icon" />  
 📧 Email: [alirezatnalireza1@gmail.com](mailto:alirezatnalireza1@gmail.com)
 
 
